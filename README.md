@@ -5,14 +5,14 @@ I specialize in **data analysis, machine learning, and AI-driven insights**. Con
 
 ---
 
-### ** Interests:**  
+### Interests: 
 -  **Data Science & AI:** Building real-world predictive models, NLP, and automation.  
 -  **Business Analytics:** Extracting meaningful insights from large datasets.  
 -  **Machine Learning:** Exploring cutting-edge models for data-driven decision-making.  
 
 ---
 
-### ** Currently Learning:**  
+### Currently Learning:  
 - **Advanced Deep Learning Architectures** (Transformers, GANs)  
 - **Big Data Processing** (Spark, Hadoop)  
 - **End-to-End MLOps** (Model Deployment & Cloud Computing)  
