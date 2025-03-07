@@ -19,14 +19,14 @@ I specialize in **data analysis, machine learning, and AI-driven insights**. Con
 
 ---
 
-### **Collaboration Idea:**  
+### Collaboration Idea:
  **Real-Time Data Dashboard & Prediction Model**  
 - Develop an interactive **real-time analytics dashboard** (using Python, Streamlit, and Flask) that visualizes stock market trends, sales forecasting, or even **real-time sports analytics** for Muay Thai matches.  
 - Integrate **machine learning models** for trend predictions and insights—perfect for startups, finance, and sports industries.  
 
 ---
 
-### ** Looking to Collaborate On:**  
+### Looking to Collaborate On:
 - Open-source **AI projects & real-world data science problems**  
 - **Data-driven business insights & automation**  
 - **ML model deployment & API integrations**  
